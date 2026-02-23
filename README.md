@@ -10,6 +10,7 @@ Exports summary reports
 Includes custom utility library
 Fully tested with JUnit
 
+
 file-analytics-engine/
 │
 ├── core/                    (Pure Java business logic)
@@ -38,3 +39,5 @@ file-analytics-engine/
 │   └── AsyncProcessorTest.java
 │
 └── pom.xml (or build.gradle)
+
+
